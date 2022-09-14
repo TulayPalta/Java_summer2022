@@ -18,7 +18,7 @@ public class Lambda01 {
 
      * INPUT : list1={"Ali","Veli","Ayse","Fatma","Omer"}
      * OUTPUT : [Veli,Omer]
-     */
+     ***/
 
     //1.yol
    public static void aHarfiOlanlariSilenGerisiniYazdiran (ArrayList<String> isimler){
