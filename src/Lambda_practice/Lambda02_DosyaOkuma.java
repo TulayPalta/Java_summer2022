@@ -40,7 +40,7 @@ public class Lambda02_DosyaOkuma {// yolu src/lambda_practice/siirler.txt
         System.out.println("\nTASK 1  --> siirler.txt dosyasindaki ilk satiri buyuk harflerle yazdirin  -->  ");
             //1. yol
         akis= Files.lines(muti);
-            System.out.println(akis.toArray()[0]);
+            System.out.println(akis.toArray()[0]); //
 
         //2.yol
         Files.lines(muti).map(String::toUpperCase).limit(1).forEach(System.out::println);
