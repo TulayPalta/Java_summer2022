@@ -1,4 +1,4 @@
-package aa_examples.day02_odev;
+package day02_odev;
 
 public class C05_DataCasting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package aa_examples.day02_odev;
+package day02_odev;
 
 import java.util.Scanner;
 
